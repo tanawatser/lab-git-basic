@@ -1,0 +1,3 @@
+This is file 02
+===============
+File 02 content
