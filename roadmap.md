@@ -24,13 +24,13 @@ Here are my current thoughts on a roadmap for our overall engineering organziati
 
 * Host docsify page on docs.operationcode.org - we need to have our docs in one easy to find and easy to navigate place, this is essential to making sure people can find the information they need quickly.  
 
-* Landing Page ReDesign
-
 * Introduce a drop-down item for the navbar.
 
-* Re-think and redo hero banner implementation
+* Landing Page ReDesign
 
 * Make sure that all UI components have Jest snapshot tests and Storybook instances
+
+* Re-think and redo hero banner implementation
 
 * Document how to add a Jest test and a Storybook instance of a component
 
@@ -40,11 +40,11 @@ Here are my current thoughts on a roadmap for our overall engineering organziati
 
 * Deploy interface for execs to query the database (possibly Active Admin or Forest)
 
-* Add ability to run Cron Jobs (need help of infrastructure)
+* Implement roles/permissions for end users
 
 * Set up new Code Climate account - this will help give us insight into the health of our codebase, and ensure we are using best practices and keeping it beginner friendly!
 
-* Implement roles/permissions for end users
+* Add ability to run Cron Jobs (need help of infrastructure)
 
 * Implement an authentication strategy/option to secure and expose the API (for non-signed in user consumers, i.e. Slack, apps, etc.)
 
