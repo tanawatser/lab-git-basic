@@ -1,3 +1,3 @@
 This is file 02
 ===============
-File 02 content
+File 02 content in b2
